@@ -7,4 +7,5 @@
   "response_types": ["code"],
   "scope": "atproto",
   "dpop_bound_access_tokens": true
+  "token_endpoint_auth_method": "none"
 }
